@@ -12,20 +12,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MazdaMPV.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/vehicles/cars/MazdaMPV.java">
+      <file leaf-file-name="Autopark.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/Autopark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="140">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Autopark.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/Autopark.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="291">
+              <caret line="207" column="32" lean-forward="true" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayUtility.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/ArrayUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,58 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvalidPriceException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/vehicles/exceptions/InvalidPriceException.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="CarClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/vehicles/cars/properties/CarClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/vehicles/BaseCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#1034#1035#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1256#1257#0" expanded="true" />
-                <element signature="e#1301#1302#0" expanded="true" />
-                <element signature="e#1328#1329#0" expanded="true" />
-                <element signature="e#1374#1375#0" expanded="true" />
-                <element signature="e#1405#1406#0" expanded="true" />
-                <element signature="e#1533#1534#0" expanded="true" />
-                <element signature="e#1557#1558#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CarConnector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarXmlParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarXmlParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="162" column="84" selection-start-line="162" selection-start-column="84" selection-end-line="162" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="188">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -136,15 +118,13 @@
       <find>processCar</find>
       <find>processValue</find>
       <find>println</find>
+      <find>BigInteger</find>
+      <find>divide</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_2/task_1/vehicles/cars/KiaSorento.java" />
-        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_2/task_1/vehicles/cars/ChevroletRezzo.java" />
-        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_2/task_1/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_3/task_1/vehicles/cars/type/task_1/vehicles/cars/ChevroletRezzo.java" />
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_3/task_3/vehicles/cars/ChevroletRezzo.java" />
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_3/task_3/entities/Student.java" />
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_3/task_3/entities/Course.java" />
@@ -192,6 +172,10 @@
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/vehicles/cars/properties/Color.java" />
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_6/task_6/Autopark.java" />
         <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/Autopark.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/StringUtility.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/ArrayUtility.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Calculator.java" />
       </list>
     </option>
   </component>
@@ -235,14 +219,7 @@
               <item name="javalang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task_8" type="462c0819:PsiDirectoryNode" />
+              <item name="task_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,18 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Autopark (4)">
-    <configuration name="Autopark (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.epam.alexadr_lobov.java.lesson_2.task_2.Autopark" />
-      <module name="javalang" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.alexadr_lobov.java.lesson_2.task_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Autopark (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.epam.alexadr_lobov.java.lesson_5.task_5.Autopark" />
       <module name="javalang" />
@@ -332,6 +298,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.epam.alexadr_lobov.java.lesson_4.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.alexadr_lobov.java.lesson_1.task_1.Solution" />
+      <module name="javalang" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.alexadr_lobov.java.lesson_1.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,18 +356,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Autopark" />
-      <item itemvalue="Application.Autopark (1)" />
       <item itemvalue="Application.Autopark (2)" />
       <item itemvalue="Application.Autopark (3)" />
       <item itemvalue="Application.Autopark (4)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Autopark (4)" />
         <item itemvalue="Application.Autopark (3)" />
         <item itemvalue="Application.Autopark (2)" />
         <item itemvalue="Application.Autopark" />
-        <item itemvalue="Application.Autopark (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,19 +396,19 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32852563" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32852563" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14494875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14494875" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -448,22 +425,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_4/task_4/vehicles/cars/properties/Color.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_4/task_4/vehicles/cars/UAZPatriot.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_4/task_4/vehicles/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_4/task_4/utilities/ArrayUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_4/task_4/vehicles/exceptions/InvalidPriceException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -743,23 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarXmlParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="162" column="84" selection-start-line="162" selection-start-column="84" selection-end-line="162" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/cars.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
@@ -784,7 +728,69 @@
     <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/Autopark.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/StringUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="101" column="39" lean-forward="true" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#914#922#0" expanded="true" />
+            <element signature="e#2673#2674#0" expanded="true" />
+            <element signature="e#2724#2725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/ArrayUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarXmlParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="158" column="21" lean-forward="true" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_8/task_8/utilities/CarConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="207" column="32" lean-forward="true" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/alexadr_lobov/java/lesson_1/task_1/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
