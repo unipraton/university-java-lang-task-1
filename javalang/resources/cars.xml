@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Cars>
+    <Car>
+        <Name>Лада Граната</Name>
+        <TechnicalCharacteristics>
+            <FuelConsumption>12.5</FuelConsumption>
+            <Color>Red</Color>
+            <MaxSpeed>2</MaxSpeed>
+            <EnginePower>12</EnginePower>
+        </TechnicalCharacteristics>
+        <Type>HatchBack</Type>
+        <Coast>625135</Coast>
+    </Car>
+    <Car>
+        <Name>Лада Пришпора</Name>
+        <TechnicalCharacteristics>
+            <FuelConsumption>17.5</FuelConsumption>
+            <Color>Yellow</Color>
+            <MaxSpeed>42</MaxSpeed>
+        </TechnicalCharacteristics>
+        <Type>Suv</Type>
+        <EnginePower>1</EnginePower>
+        <Coast>124123</Coast>
+    </Car>
+    <Car>
+        <Name>Лада НеВеста</Name>
+        <TechnicalCharacteristics>
+            <FuelConsumption>15.5</FuelConsumption>
+            <Color>Black</Color>
+            <MaxSpeed>442</MaxSpeed>
+        </TechnicalCharacteristics>
+        <Type>Minivan</Type>
+        <EnginePower>4</EnginePower>
+        <Coast>121321</Coast>
+    </Car>
+    <Car>
+        <Name>Конь</Name>
+        <TechnicalCharacteristics>
+            <FuelConsumption>0</FuelConsumption>
+            <Color>White</Color>
+            <MaxSpeed>28</MaxSpeed>
+        </TechnicalCharacteristics>
+        <Type>Minivan</Type>
+        <EnginePower>1</EnginePower>
+        <Coast>230000</Coast>
+    </Car>
+</Cars>
