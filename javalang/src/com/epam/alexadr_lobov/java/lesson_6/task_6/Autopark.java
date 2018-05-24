@@ -16,7 +16,7 @@ import java.util.Comparator;
 
 /**
  * Лобов Александр Андреевич 531 группа
- * Lesson 4 Task 4, Serialization'
+ * Lesson 6 Task 6'
  */
 public class Autopark {
 
