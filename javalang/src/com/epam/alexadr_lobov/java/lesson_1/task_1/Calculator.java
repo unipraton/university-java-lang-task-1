@@ -1,7 +1,6 @@
 package com.epam.alexadr_lobov.java.lesson_1.task_1;
 
 import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -64,5 +63,4 @@ public class Calculator {
             throw new IllegalArgumentException("Input string is not value");
         }
     }
-
 }
